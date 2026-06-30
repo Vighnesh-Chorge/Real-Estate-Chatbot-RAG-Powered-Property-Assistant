@@ -1,0 +1,17 @@
+property_id,name,type,cost,BHK,baths,carpet_area,facing,car_parking,furnished,built_year,society_charges,neighborhood,city,availability,amenities,pet_policy,possession,rera_id
+482,Sunlit 3BHK near the metro,apartment,4.5 Cr,3 BHK,2,1400 sqft,west,2,semi,2013,18000,Bandra West,Mumbai,available,"rooftop gym, pool, kids play area",allowed,ready to move,MAHARERA-A51800001234
+517,Compact 2BHK in tech corridor,apartment,"1,80,00,000",2,2,1050,east,1,unfurnished,2019,6500,Koramangala,Bengaluru,available,"clubhouse, jogging track",not allowed,ready to move,PRM-KA-RERA-1251-309
+603,Spacious 4BHK with lake view,apartment,6.2 Cr,4 BHK,4,2200,north,3,furnished,2017,32000,Powai,Mumbai,available,"spa, indoor games, 25m pool",allowed,ready to move,MAHARERA-A51800005678
+624,Cosy 1BHK starter home,apartment,95 lakh,1,1,580,south,1,unfurnished,2009,4200,Andheri East,Mumbai,sold,"lift, intercom",allowed,ready to move,MAHARERA-A51800009012
+701,Modern 3BHK in gated community,apartment,2.4 Cr,3 BHK,3,1650,west,2,semi,2021,9800,Whitefield,Bengaluru,pending,"two pools, tennis court, amphitheatre",allowed,ready to move,PRM-KA-RERA-1252-421
+742,Luxury sea-facing penthouse,penthouse,18 Cr,5 BHK,5,4800,west,4,furnished,2020,75000,Worli,Mumbai,available,"private terrace, jacuzzi, home theatre",allowed,ready to move,MAHARERA-A51800003344
+758,Affordable 2BHK near IT park,apartment,78 lakh,2,2,980,east,1,semi,2018,5500,Hinjewadi,Pune,available,"gym, garden",allowed,ready to move,P52100012345
+776,Elegant 3BHK in Koregaon Park,apartment,3.1 Cr,3 BHK,3,1850,north,2,furnished,2016,14000,Koregaon Park,Pune,available,"concierge, pool, cafe",allowed,ready to move,P52100023456
+803,Premium 4BHK villa with garden,villa,8.5 Cr,4 BHK,5,3600,east,3,semi,2015,22000,Jubilee Hills,Hyderabad,available,"private garden, servant quarter",allowed,ready to move,TS-RERA-A00112233
+818,Smart studio apartment,studio,55 lakh,1,1,420,west,1,furnished,2022,3800,Gachibowli,Hyderabad,available,"co-working lounge, gym",allowed,ready to move,TS-RERA-A00445566
+829,Family 3BHK near beach,apartment,2.9 Cr,3 BHK,3,1720,east,2,semi,2014,11500,Adyar,Chennai,available,"pool, clubhouse",not allowed,ready to move,TN-29-Building-0123-2019
+845,Builder floor 3BHK,builder_floor,3.6 Cr,3 BHK,3,2100,north,2,unfurnished,2012,8000,Golf Course Road,Gurgaon,available,"stilt parking, power backup",allowed,ready to move,HARERA-GGM-2018-123
+856,Hi-rise 2BHK with skyline view,apartment,"1,35,00,000",2,2,1180,west,1,semi,2019,7200,Sohna Road,Gurgaon,available,"sky lounge, gym, pool",allowed,ready to move,HARERA-GGM-2019-456
+867,Garden-facing 2BHK,apartment,1.6 Cr,2 BHK,2,1240,south,1,semi,2017,6800,Baner,Pune,available,"landscaped garden, gym",allowed,ready to move,P52100034567
+879,Investment plot in growth corridor,plot,1.2 Cr,0,0,2400,,0,unfurnished,,0,OMR,Chennai,available,"gated layout, clubhouse planned",,under construction,TN-29-Layout-0456-2021
+888,Renovated 3BHK heritage flat,apartment,5.4 Cr,3 BHK,3,1950,north,1,furnished,1998,16000,Colaba,Mumbai,available,"wooden flooring, sea breeze, high ceilings",allowed,ready to move,MAHARERA-A51800007788

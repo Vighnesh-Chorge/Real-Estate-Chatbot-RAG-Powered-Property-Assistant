@@ -1,0 +1,102 @@
+{
+  "listings": [
+    {
+      "id": 901, "title": "Bright 3BHK in Indiranagar", "type": "apartment",
+      "price": "3.4 Cr", "beds": 3, "baths": 3, "sqft": 1780, "floor": "8th of 14",
+      "facing": "east", "parking": 2, "furnishing": "semi-furnished", "year_built": 2016,
+      "maintenance_fee": 13500, "locality": "Indiranagar", "city": "Bengaluru",
+      "status": "available", "pet_policy": "allowed", "power_backup": "full",
+      "amenities": "gym, swimming pool, party hall",
+      "documents": [
+        {"doc_type": "brochure", "text": "A bright east-facing 3BHK on the 8th floor of Orion Residency in the heart of Indiranagar. The apartment enjoys morning sun across a spacious living-dining area and a covered balcony. Two covered parking bays are included, along with full power backup and 24x7 security. Society amenities are a well-equipped gym, a swimming pool, and a party hall. The metro station, restaurants, and 100 Feet Road are all within a ten-minute walk, making it ideal for professionals who want the city at their doorstep."},
+        {"doc_type": "inspection", "text": "Inspection dated April 2025: the apartment is in very good condition. Walls and ceilings show no signs of dampness. Plumbing and electrical fittings are functional and recently serviced. The main door and windows are sturdy. One bedroom AC requires a routine gas top-up, noted as minor. Overall the unit is move-in ready with no structural concerns."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 13,500 rupees, covering security, the gym, and common-area upkeep. Pets are allowed. The society permits long-term tenants but requires police verification. Visitor parking is available near the entrance."}
+      ]
+    },
+    {
+      "id": 902, "title": "Modern 2BHK in HSR Layout", "type": "apartment",
+      "price": "1.55 Cr", "beds": 2, "baths": 2, "sqft": 1120, "floor": "5th of 9",
+      "facing": "north", "parking": 1, "furnishing": "unfurnished", "year_built": 2018,
+      "maintenance_fee": 7000, "locality": "HSR Layout", "city": "Bengaluru",
+      "status": "available", "pet_policy": "allowed", "water_supply": "borewell + corporation",
+      "amenities": "gym, rooftop garden",
+      "documents": [
+        {"doc_type": "brochure", "text": "A modern north-facing 2BHK on the 5th floor of Maple Court in HSR Layout, a sector popular with startups and young families. The home is unfurnished, giving you a blank canvas, with one covered parking spot and a small utility balcony. The building offers a gym and a rooftop garden with seating. Schools, cafes, and the Outer Ring Road are close by, and several tech parks are a short drive away."},
+        {"doc_type": "inspection", "text": "Inspection dated February 2025: good condition overall. A small water stain was observed under the kitchen sink from an old leak, now dry and sealed. Electrical points tested fine. Flooring and paint are in good shape. The building has a valid occupancy certificate."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 7,000 rupees. Pets are allowed. Water is supplied through a combination of borewell and corporation lines. The society has a clubhouse that residents can book for small gatherings."}
+      ]
+    },
+    {
+      "id": 903, "title": "Value 3BHK in Thane", "type": "apartment",
+      "price": "1.95 Cr", "beds": 3, "baths": 2, "sqft": 1320, "floor": "12th of 22",
+      "facing": "west", "parking": 1, "furnishing": "semi-furnished", "year_built": 2020,
+      "maintenance_fee": 8500, "locality": "Ghodbunder Road", "city": "Thane",
+      "status": "available", "pet_policy": "allowed", "amenities": "clubhouse, pool, indoor games",
+      "documents": [
+        {"doc_type": "brochure", "text": "A well-priced west-facing 3BHK on the 12th floor of Hill Crest Towers along Ghodbunder Road in Thane. Built in 2020, the apartment offers evening sun and partial hill views. It comes semi-furnished with wardrobes and modular kitchen fittings, plus one covered parking spot. The gated complex includes a clubhouse, a swimming pool, and an indoor games room. The location offers easy access to the Eastern Express Highway and upcoming metro connectivity."},
+        {"doc_type": "inspection", "text": "Inspection dated March 2025: excellent condition, being a relatively new building. No dampness or cracks found. All fittings are intact and the modular kitchen is in good order. Fire-safety systems are installed and certified."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 8,500 rupees. Pets are allowed with society registration. The complex has ample visitor parking and a dedicated children's play zone."}
+      ]
+    },
+    {
+      "id": 904, "title": "Budget 2BHK near Electronic City", "type": "apartment",
+      "price": "72 lakh", "beds": 2, "baths": 2, "sqft": 940, "floor": "3rd of 7",
+      "facing": "south", "parking": 1, "furnishing": "unfurnished", "year_built": 2017,
+      "maintenance_fee": 4800, "locality": "Electronic City", "city": "Bengaluru",
+      "status": "available", "pet_policy": "not allowed", "amenities": "gym, garden",
+      "documents": [
+        {"doc_type": "brochure", "text": "An affordable south-facing 2BHK on the 3rd floor of Tech Habitat near Electronic City Phase 1. Ideal for IT professionals, with one covered parking spot and a compact, efficient layout. The building has a basic gym and a small landscaped garden. Major tech campuses are within a fifteen-minute commute, and the Elevated Expressway makes travel to the city convenient."},
+        {"doc_type": "inspection", "text": "Inspection dated January 2025: condition is good. Minor wear on bathroom grouting noted, cosmetic only. Electrical and plumbing systems work normally. No seepage or structural issues."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 4,800 rupees. Pets are not permitted in this society. There is reserved two-wheeler parking in addition to the car spot."}
+      ]
+    },
+    {
+      "id": 905, "title": "Opulent 4BHK in Banjara Hills", "type": "apartment",
+      "price": "7.8 Cr", "beds": 4, "baths": 4, "sqft": 3100, "floor": "15th of 20",
+      "facing": "east", "parking": 3, "furnishing": "furnished", "year_built": 2019,
+      "maintenance_fee": 28000, "locality": "Banjara Hills", "city": "Hyderabad",
+      "status": "available", "pet_policy": "allowed", "amenities": "infinity pool, spa, concierge, home automation",
+      "documents": [
+        {"doc_type": "brochure", "text": "An opulent fully-furnished 4BHK on the 15th floor of Crest Boulevard in Banjara Hills, one of Hyderabad's most prestigious addresses. The east-facing residence features floor-to-ceiling windows, imported fittings, and integrated home automation. Three covered parking bays are included. Building amenities are exceptional: an infinity pool, a full-service spa, a concierge desk, and a private dining room. Premium schools, hospitals, and retail are all within easy reach."},
+        {"doc_type": "inspection", "text": "Inspection dated May 2025: pristine condition throughout. All premium fittings are recently serviced and under warranty. Home-automation system tested and fully functional. No defects of any kind were identified."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 28,000 rupees, inclusive of spa and pool access. Pets are allowed, up to two per household. The concierge can arrange housekeeping and valet on request."}
+      ]
+    },
+    {
+      "id": 906, "title": "Airy 2BHK in Viman Nagar", "type": "apartment",
+      "price": "1.25 Cr", "beds": 2, "baths": 2, "sqft": 1080, "floor": "6th of 11",
+      "facing": "east", "parking": 1, "furnishing": "semi-furnished", "year_built": 2015,
+      "maintenance_fee": 6200, "locality": "Viman Nagar", "city": "Pune",
+      "status": "available", "pet_policy": "allowed", "amenities": "gym, jogging track, kids play area",
+      "documents": [
+        {"doc_type": "brochure", "text": "An airy east-facing 2BHK on the 6th floor of Skyline Vista in Viman Nagar, close to Pune airport and the Phoenix mall. The semi-furnished home gets good cross-ventilation and natural light. One covered parking spot is included. The society offers a gym, a jogging track, and a children's play area. The location is well connected to the IT hubs of Kharadi and EON."},
+        {"doc_type": "inspection", "text": "Inspection dated March 2025: good condition. A hairline crack in the balcony plaster was noted as cosmetic. Plumbing and wiring are sound. The lift and common areas are well maintained."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 6,200 rupees. Pets are allowed. The society has 24x7 security with CCTV and intercom access."}
+      ]
+    },
+    {
+      "id": 907, "title": "Riverside 3BHK in New Town", "type": "apartment",
+      "price": "1.1 Cr", "beds": 3, "baths": 3, "sqft": 1480, "floor": "9th of 18",
+      "facing": "north", "parking": 1, "furnishing": "unfurnished", "year_built": 2021,
+      "maintenance_fee": 5800, "locality": "New Town", "city": "Kolkata",
+      "status": "available", "pet_policy": "allowed", "amenities": "pool, gym, community hall",
+      "documents": [
+        {"doc_type": "brochure", "text": "A spacious north-facing 3BHK on the 9th floor of Riverdale Heights in New Town, Kolkata, a planned township with wide roads and greenery. Built in 2021, the unfurnished apartment offers generous room sizes and a large balcony. One covered parking spot is included. Amenities include a swimming pool, a gym, and a community hall. The location is close to the IT sector, the airport, and reputed schools."},
+        {"doc_type": "inspection", "text": "Inspection dated April 2025: excellent condition given the recent construction. No dampness, cracks, or fitting issues. The building has valid completion and fire-safety certificates."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 5,800 rupees. Pets are allowed. The township has its own water treatment plant and uninterrupted power backup for common areas."}
+      ]
+    },
+    {
+      "id": 908, "title": "Premium 3BHK in Wakad", "type": "apartment",
+      "price": "1.7 Cr", "beds": 3, "baths": 3, "sqft": 1390, "floor": "10th of 15",
+      "facing": "west", "parking": 2, "furnishing": "semi-furnished", "year_built": 2019,
+      "maintenance_fee": 7500, "locality": "Wakad", "city": "Pune",
+      "status": "pending", "pet_policy": "allowed", "amenities": "clubhouse, pool, gym, amphitheatre",
+      "documents": [
+        {"doc_type": "brochure", "text": "A premium west-facing 3BHK on the 10th floor of Greenfield Enclave in Wakad, a fast-growing suburb near the Mumbai-Pune Expressway. The semi-furnished apartment has two covered parking spots and a wide sundeck balcony. The large gated society includes a clubhouse, a swimming pool, a gym, and an amphitheatre. Hinjewadi IT park is a short drive away, making it popular with tech families."},
+        {"doc_type": "inspection", "text": "Inspection dated February 2025: very good condition. All fittings and fixtures are intact. A minor adjustment to a sliding window track was recommended. No moisture or structural issues found."},
+        {"doc_type": "faq", "text": "Monthly maintenance is 7,500 rupees. Pets are allowed. The sale is currently pending the buyer's home-loan approval, expected to close shortly."}
+      ]
+    }
+  ]
+}
