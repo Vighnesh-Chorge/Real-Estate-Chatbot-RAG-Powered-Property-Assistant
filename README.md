@@ -138,7 +138,3 @@ python retrieve.py "show me all 2bhk in pune"
 
 ---
 
-## 📫 Connect
-
-- [LinkedIn](https://linkedin.com/in/adit-biramne)
-- 📧 Email: [aditbiramne2@gmail.com](mailto:aditbiramne2@gmail.com)
